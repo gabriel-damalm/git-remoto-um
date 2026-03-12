@@ -1,2 +1,2 @@
 Linha 1 de quatro.txt remoto
-Linha 2 de quatro.txt remoto
+Linha 2 de quatro.txt remoto (Modificado pela 2º vez para testar conflitos de merge)
