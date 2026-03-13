@@ -1,3 +1,4 @@
 Linha 1 de um.txt
 Linha 2 do um.txt remoto
 Linha 3 de um.txt remoto
+Linha 4 de um.txt remoto - testando stash
